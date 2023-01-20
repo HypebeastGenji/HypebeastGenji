@@ -1,4 +1,4 @@
-Hi 👋 I'm HypebeastGenji ===============================
+Hi 👋 I'm HypebeastGenji 
 
 <a href="https://www.github.com/HypebeastGenji" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HypebeastGenji?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
